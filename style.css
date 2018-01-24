@@ -28,3 +28,10 @@
   letter-spacing: 5px;
   text-align: center;
 }
+.principal h1 {
+  font-size: 70px;
+  margin-bottom: 20px;
+}
+.principal p {
+  font-size: 20px;
+}
